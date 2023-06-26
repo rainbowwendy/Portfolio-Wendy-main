@@ -284,6 +284,18 @@ dt {
   bottom:980px;
 }
 
+.proj-box9 {
+  width: 350px;
+  height: 220px;
+  border: 10px solid rgb(127, 106, 106);
+  border-radius: 60px;
+  padding: 60px;
+  text-align: center;
+  position: relative;
+  left:420px;
+  bottom:900px;
+}
+
 .fixed {
   position: fixed;
   bottom: 20px;
